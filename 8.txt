@@ -1,9 +1,9 @@
 start
-input length
-input width
-input area
-enter length
-enter width
-area=lengthxwidth
-display =area
+declare average
+user enter marks
+input average
+if average >50 then print pass
+else
+print fail
 end
+
