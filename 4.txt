@@ -1,0 +1,7 @@
+Start
+Input Number from user
+if n>0 
+Display n=positive
+else if num <0 display negative
+else display number is 0
+End

@@ -1,0 +1,9 @@
+1.start
+2.declare average
+3.ask user to enter average marks
+4.read average
+5.if average >50
+display PASS
+else
+display fail
+6.end

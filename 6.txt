@@ -1,0 +1,5 @@
+1.sum starts at 0
+2.loops runs 7times, once for each day
+3.each day, temp is added to sum
+4.after loop, calculate average by sum/7
+5.print total=average temp

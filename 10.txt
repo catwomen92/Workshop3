@@ -1,0 +1,10 @@
+1.start
+2.inut purchase amount=amount
+3. is the amount higher then 1000?
+if no without disscount
+else
+if yes calculate disscount
+then 
+4.Count finalprice by amount-disscount
+5.display finalprice
+6.end

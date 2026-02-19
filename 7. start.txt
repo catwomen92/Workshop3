@@ -1,0 +1,6 @@
+1. start
+2.input length
+3.input widht
+4.count area using area=LxW
+5.display area 
+6.end
