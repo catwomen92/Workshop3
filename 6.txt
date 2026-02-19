@@ -1,5 +1,9 @@
-1.sum starts at 0
-2.loops runs 7times, once for each day
-3.each day, temp is added to sum
-4.after loop, calculate average by sum/7
-5.print total=average temp
+Start
+sum=0
+Repeat 7times
+input temp
+sum=sum+temp
+end repeat
+average = sum/7
+output average
+end
